@@ -1,0 +1,11 @@
+ /*모든요소 선택자*/
+ * {color:black;}
+
+ /*태그명 선택자*/
+ p{background-color: palegoldenrod;font-size: 40px; border: 4pxs soild chocolate;}
+ 
+ /*아이디 선택자*/
+ #second_p {background-color: chartreuse;}
+
+ /*클래스 속성 값이 동일한 부분에 적용*/
+ .para{background-color: pink;}
